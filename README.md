@@ -4,7 +4,7 @@ Hello QDK team,
 
 I've been exploring a research-oriented numerical unitary synthesis approach for two-qubit gates. I wanted to share this concept here, as its design goals seem to align closely with QDK's focus on hardware-agnostic, resource-aware, and fault-tolerant workflows.
 
-**Repository:** [あなたのGitHubリポジトリのURLをここに貼る]
+**Repository:** [https://github.com/love-os-architect/README]
 
 ### Summary
 This method synthesizes an arbitrary SU(4) unitary into an alternating structure of local rotations and RZZ entanglers. Unlike standard analytical decompositions, it uses differentiable parameter-shift gradients combined with **physically motivated soft priors**.
